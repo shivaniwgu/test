@@ -1,0 +1,12 @@
+Column1,Column2,Column3,Column4,Date Completed,Column5,Expiration Date,Column6,Column7,Column8,Column9
+X123: Course1,X123: Course1,Basic Course,41392971,3/7/21 22:31,100,,first1,last1,user1,test@wgu.edu
+X123: Course1,X123: Course1,Basic Course,39116122,10/24/20 0:15,88,,first2 ,last2,user2,test1@wgu.edu
+X123: Course1,X123: Course1,Basic Course,43101353,7/22/21 13:16,92,,first3,last3,user3,test2@wgu.edu
+X123: Course1,X123: Course1,Basic Course,46541714,1/8/22 22:59,100,,first4,last4,user4,test3@wgu.edu
+X234: course2,X234: course2,Basic Course,46541715,1/8/22 22:59,100,,first5,last5,user5,test4@wgu.edu
+X234: course2,X234: course2,Basic Course,46534116,1/8/22 15:49,88,,first6,last6,user6,test5@wgu.edu
+X123: Course1,X123: Course1,Basic Course,46534117,1/8/22 15:49,88,,first7,last7,user7,test6@wgu.edu
+Course3,Course3,Basic Course,23818468,7/9/17 8:53,100,7/8/20 8:53,first8,last8,user8,test7@wgu.edu
+Course3,Course3,Basic Course,26817419,4/23/18 15:44,96,4/22/21 15:44,first9,last9,user9,test8@wgu.edu
+X123: Course1,X123: Course1,Basic Course,41541931,3/11/21 20:11,80,,first10,last10,user10,test9@wgu.edu
+X123: Course1,X123: Course1,Basic Course,45876952,11/2/21 0:31,80,,first11,last11,user11,test10@wgu.edu
